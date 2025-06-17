@@ -5,7 +5,7 @@
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "Spin the wheel and pick a name at random! Great for giveaways, raffles, classrooms, or choosing a winner from any list",
     "orientation": "portrait-primary",
     "prefer_related_applications": false
 }
